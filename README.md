@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - :previous_track_button: I formally worked on a web application for Bank of America associates which routes customer appointments.
 - :snake: I’m learning Python and grinding Leetcode.
 - :bear: I’m also working on my Masters from UCLA.
+
+[![Visits Badge](https://badges.pufler.dev/visits/anthonyjdella/automated-job-web-scraping)](https://github.com/anthonyjdella/automated-job-web-scraping)
