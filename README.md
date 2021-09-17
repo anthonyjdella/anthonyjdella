@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - :snake: I’m learning Python and grinding Leetcode.
 - :bear: I’m also working on my Masters from UCLA.
 
-[![Visits Badge](https://badges.pufler.dev/visits/anthonyjdella/automated-job-web-scraping)](https://github.com/anthonyjdella/automated-job-web-scraping)
+[![Visits Badge](https://badges.pufler.dev/visits/anthonyjdella/anthonyjdella)](https://github.com/anthonyjdella/)
 [![Years Badge](https://badges.pufler.dev/years/anthonyjdella)](https://github.com/anthonyjdella/)
