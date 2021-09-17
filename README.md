@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - :bear: I’m also working on my Masters from UCLA.
 
 [![Visits Badge](https://badges.pufler.dev/visits/anthonyjdella/automated-job-web-scraping)](https://github.com/anthonyjdella/automated-job-web-scraping)
+[![Years Badge](https://badges.pufler.dev/years/anthonyjdella)](https://github.com/anthonyjdella/)
