@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :desktop_computer:  I’m currently working on a web application that will serve State Farm agents so that they can better serve their customers.
+- :previous_track_button: I formally worked on a web application for Bank of America associates which routes customer appointments.
+- :snake: I’m learning Python and grinding Leetcode.
+- :bear: I’m also working on my Masters from UCLA.
