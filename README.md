@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 ![Anthony Stats](https://github-readme-stats.vercel.app/api?username=anthonyjdella&show_icons=true)
 
+<!-- ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyjdella&theme=blue-green)
+ -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/anthonyjdella/anthonyjdella)](https://github.com/anthonyjdella/)
-[![Years Badge](https://badges.pufler.dev/years/anthonyjdella)](https://github.com/anthonyjdella/)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api)
+ -->
+
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/anthonyjdella/anthonyjdella)](https://github.com/anthonyjdella/)
+[![Years Badge](https://badges.pufler.dev/years/anthonyjdella)](https://github.com/anthonyjdella/) -->
+![Profile View Counter](https://komarev.com/ghpvc/?username=anthonyjdella)
