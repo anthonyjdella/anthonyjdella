@@ -1,0 +1,16 @@
+{
+  "name": "Anthony Dellavecchia",
+  "version": "1.0.0",
+  "description": "Readme weather",
+  "main": "index.js",
+  "repository": "git@github.com:anthonyjdella/anthonyjdella.git",
+  "author": "Anthony Dellavecchia <leeznon@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "update:readme": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
