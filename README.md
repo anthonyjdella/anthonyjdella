@@ -6,6 +6,13 @@
 
 
 ---
+  
+  
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=anthonyjdella&show_icons=true">
+   <img alt="Anthony's Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyjdella&show_icons=true)" />
+  </a>
+</p>
 
 - 🖥️ I’m currently working on a web application that will serve State Farm agents so that they can better serve their customers.
 
@@ -17,11 +24,7 @@
 
 
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=anthonyjdella&show_icons=true">
-   <img alt="Anthony's Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyjdella&show_icons=true)" />
-  </a>
-</p>
+
 
 
 <p align="center">
