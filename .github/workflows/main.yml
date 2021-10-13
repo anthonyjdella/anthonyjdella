@@ -16,6 +16,12 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
+      - name: 🦑 Personal metrics (left)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: anthonyjdella
           template: classic
@@ -24,13 +30,12 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-  github-metrics-2:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
+      - name: 🦑 Personal metrics (right)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.two.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: anthonyjdella
           template: terminal
