@@ -27,3 +27,8 @@
 - 🐍 I’m learning Python and grinding Leetcode.
 
 - 🐻 I’m also working on my Masters from UCLA.
+  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anthonyjdella" />
+</p>
+
