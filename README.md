@@ -8,9 +8,7 @@
 ---
   
 <p align="center">
-  <img
-    src="https://github.com/anthonyjdella/anthonyjdella/blob/main/github-metrics.svg"
-  />
+  <img src="https://metrics.lecoq.io/anthonyjdella?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FChicago" />
 </p>
 
    
@@ -21,11 +19,6 @@
 - 🐍 I’m learning Python and grinding Leetcode.
 
 - 🐻 I’m also working on my Masters from UCLA.
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anthonyjdella" />
-</p>
 
 
 <p align="center">
