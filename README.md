@@ -7,8 +7,10 @@
 
 ---
   
+ 
 <p align="center">
-  <img src="https://metrics.lecoq.io/anthonyjdella?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FChicago" />
+  <img src="./metrics.svg" />
+  <img src="./metrics.two.svg" />
 </p>
 
    
