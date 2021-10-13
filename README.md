@@ -7,12 +7,11 @@
 
 ---
   
- 
-<p align="center">
-  <img src="./metrics.svg" />
-  <img src="./metrics.two.svg" />
-</p>
+  | | |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" src="./metrics.svg">  |  <img width="1604" src="./metrics.two.svg">|
 
+  
    
 - 🖥️ I’m currently working on a web application that will serve State Farm agents so that they can better serve their customers.
 
