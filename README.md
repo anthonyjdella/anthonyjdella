@@ -7,15 +7,13 @@
 
 ---
   
-  
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=anthonyjdella&show_icons=true">
-   <img alt="Anthony's Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyjdella&show_icons=true)" />
-  </a>
+  <img
+    src="https://github.com/anthonyjdella/anthonyjdella/blob/main/github-metrics.svg"
+  />
 </p>
-  
-  ![Metrics](https://github.com/anthonyjdella/anthonyjdella/blob/main/github-metrics.svg)
 
+   
 - 🖥️ I’m currently working on a web application that will serve State Farm agents so that they can better serve their customers.
 
 - ⏮️ I formally worked on a web application for Bank of America associates which routes customer appointments.
@@ -23,10 +21,6 @@
 - 🐍 I’m learning Python and grinding Leetcode.
 
 - 🐻 I’m also working on my Masters from UCLA.
-
-
-
-
 
 
 <p align="center">
