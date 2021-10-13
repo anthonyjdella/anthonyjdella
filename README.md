@@ -13,6 +13,8 @@
    <img alt="Anthony's Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyjdella&show_icons=true)" />
   </a>
 </p>
+  
+  ![Metrics](https://github.com/anthonyjdella/anthonyjdella/blob/main/github-metrics.svg)
 
 - 🖥️ I’m currently working on a web application that will serve State Farm agents so that they can better serve their customers.
 
