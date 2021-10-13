@@ -7,6 +7,13 @@
 
 ---
   
+<p align="center">
+  <a href = "https://www.anthonydellavecchia.com"><img src="https://img.icons8.com/cotton/48/000000/website--v1.png"/>
+  <a href = "https://www.linkedin.com/in/anthonydellavecchia/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://twitter.com/anthonyjdella"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href = "https://www.instagram.com/anthonyjdella"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+  
   | | |
 |:-------------------------:|:-------------------------:|
 |<img width="1604" src="./metrics.svg">  |  <img width="1604" src="./metrics.two.svg">|
@@ -20,11 +27,3 @@
 - 🐍 I’m learning Python and grinding Leetcode.
 
 - 🐻 I’m also working on my Masters from UCLA.
-
-
-<p align="center">
-  <a href = "https://www.anthonydellavecchia.com"><img src="https://img.icons8.com/cotton/48/000000/website--v1.png"/>
-  <a href = "https://www.linkedin.com/in/anthonydellavecchia/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://twitter.com/anthonyjdella"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href = "https://www.instagram.com/anthonyjdella"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
