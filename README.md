@@ -20,9 +20,9 @@
 
   
    
-- 🖥️ I’m currently working on a web application that will serve State Farm agents so that they can better serve their customers.
+- 🖥️ I’m currently working on a web application for State Farm agents so that they can better serve their customers.
 
-- ⏮️ I formally worked on a web application for Bank of America associates which routes customer appointments.
+- ⏮️ I formally worked on a web application for Bank of America associates which manages customer appointments.
 
 - 🐍 I’m learning Python and grinding Leetcode.
 
