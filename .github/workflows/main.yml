@@ -39,6 +39,5 @@ jobs:
           # Options
           user: anthonyjdella
           template: terminal
-          base: activity, community
+          base: activity, repositories
           config_timezone: America/Chicago
-          plugin_gists: yes
