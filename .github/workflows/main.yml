@@ -4,8 +4,8 @@ name: Metrics
 
 on:
   # Everyday at 6pm
-  schedule: [{cron: "0 18 * * *"}]
-  workflow_dispatch:
+  schedule: 
+    - cron: "0 18 * * *"
   push: {branches: ["master", "main"]}
 
 jobs:
