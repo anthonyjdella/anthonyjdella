@@ -242,17 +242,17 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">anthonyjdella@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  586</b> commits
+  <b>  613</b> commits
   <b>    0</b> pull requests reviewed
   <b>    2</b> pull requests opened
   <b>    3</b> issues opened
   <b>   10</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">anthonyjdella@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 27 repositories - 785 MB
+<div class="stdin"><span class="ps1-path">anthonyjdella@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 31 repositories - 800 MB
 -r--  <b>   12</b>  stargazers
 -r--  <b>    5</b>  forks
 -r--  <b>    8</b>  watchers
-dr-x  <b>   10</b>  packages
+dr-x  <b>   14</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 </div></pre>
