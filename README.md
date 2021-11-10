@@ -36,6 +36,5 @@
 I'm a software engineer who enjoys developing efficient code, using developer tools, contributing to open-source, UX/UI design, applying best practices, writing good documentation, and learning new things. I’m currently working on a web application for State Farm agents so that they can better serve their customers. I formally worked on a web application for Bank of America associates which manages customer appointments. I’m currently learning Python, grinding Leetcode, and building cool things. I’m also working on my Masters degree from UCLA 🐻. Feel free to check out my online resume @ [resume.anthonydellavecchia.com](https://resume.anthonydellavecchia.com/anthonyjdella?customTheme=Caffeine).
   
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anthonyjdella" />
+  <img src="https://komarev.com/ghpvc/?username=anthonyjdella&style=flat-square&color=5d78ff" />
 </p>
-
