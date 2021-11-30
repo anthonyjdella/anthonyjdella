@@ -12,7 +12,7 @@
   <a href="https://www.apple.com/" target="_blank"><img alt="Mac" src="https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
 
 <details>
-  <summary>View my GitHub Stats</summary>
+  <summary>View my GitHub Activity & Stats</summary>
 
   | | |
 |:-------------------------:|:-------------------------:|
