@@ -11,14 +11,14 @@
   <a href="https://open.spotify.com/user/11101383989" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://www.apple.com/" target="_blank"><img alt="Mac" src="https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
 
-<details>
+  <details>
   <summary>View my GitHub Activity & Stats</summary>
 
   | | |
 |:-------------------------:|:-------------------------:|
 |<img width="1604" src="./metrics.svg">  |  <img width="1604" src="./metrics.two.svg">|
   
-</details>
+  </details>
 </div>
 
 
