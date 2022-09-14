@@ -42,7 +42,7 @@
 </div>
 <div class="stdin"><span class="ps1-path">anthonyjdella@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 50 repositories - 2.16 GB
 -r--  <b>   22</b>  stargazers
--r--  <b>    8</b>  forks
+-r--  <b>    7</b>  forks
 -r--  <b>   20</b>  watchers
 dr-x  <b>   14</b>  packages
 dr-x         LICENSE
