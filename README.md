@@ -30,10 +30,12 @@
 
 <h3 align="center">Software Developer | Photographer | Designer</h3> -->
 
-
 ---
+I'm a Staff Developer Evangelist at Twilio. You'll find me at meetups, conferences, hackathons, or online communities. Coding should be fun.
 
+<!---
 I'm a Developer Evangelist at Twilio who enjoys coding up personal projects for fun, using developer tools, improving the developer experience, interacting with the developer community, contributing to open-source, UX/UI design, applying best practices, writing good documentation, and learning new things. Formally, I worked on a web application for State Farm agents so that they can better serve their customers. I also worked on a web application for Bank of America associates which manages customer appointments. I’m currently focusing on Python, learning more front-end, and [building cool things](https://github.com/anthonyjdella?tab=projects&type=beta). I also just finished up my Masters degree from UCLA 🐻. Feel free to check out my online resume @ [resume.anthonydellavecchia.com](https://resume.anthonydellavecchia.com/anthonyjdella?customTheme=Caffeine).
+-->
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anthonyjdella&style=flat-square&color=5d78ff" />
