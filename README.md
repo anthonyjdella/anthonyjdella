@@ -4,10 +4,11 @@
   </a>
 
 <br>
+<br>
 
-```
-I write code on stage in front of a crowd. You'll find me at meetups, conferences, hackathons, or online communities. Let's connect @anthonyjdella
-```
+
+I write code on stage in front of a crowd. You'll find me at meetups, conferences, hackathons, or online communities. More [about-me](https://github.com/anthonyjdella/about-me).
+
   <!--<table>
   <tr>
     <th>Contributions</th>
