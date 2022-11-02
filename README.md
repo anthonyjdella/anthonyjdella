@@ -31,6 +31,5 @@ I write code on stage in front of a crowd. You'll find me at meetups, conference
 <a href="https://dev.to/anthonyjdella" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <a href="https://anthonyjdella.hashnode.dev/" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://medium.com/@anthonyjdella" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://www.apple.com/" target="_blank"><img alt="Mac" src="https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
 
 </div>
