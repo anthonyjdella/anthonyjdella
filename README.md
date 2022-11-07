@@ -46,7 +46,7 @@ I write code on stage in front of a crowd. You'll find me at meetups, conference
     
 ### 🗣 Public Speaking
 
-| Event | Location | Date | Topic |       |
+| Event | Location | Date | Topic | Reference      |
 |------|:-------:|:-----:|:------:|--------|
 | [Halloween Party](https://www.meetup.com/twilio-seattle/events/288926681/) | Seattle,&nbsp;🌧️ | October 24, 2022 | Talk, [Do you like scary movies?](https://www.twilio.com/blog/do-you-like-scary-movies-build-a-halloween-project-with-twilio) | [🖥&nbsp;Slides](https://noti.st/anthonyjdella/YEMatV/do-you-like-scary-movies) |
 | [Spiceworld 2022](https://www.spiceworks.com/spiceworld/) | Austin,&nbsp;🥩 | September 28, 2022 | Workshop, [Summarize Text from Images using AI and Twilio](https://www.twilio.com/blog/summarize-text-from-images-using-ai-and-twilio) | [🖥&nbsp;Slides](https://noti.st/anthonyjdella/L6gFMA/summarize-text-from-images-using-ai-and-twilio) |
