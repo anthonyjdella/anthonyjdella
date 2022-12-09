@@ -60,6 +60,8 @@ I write code on stage in front of a crowd. You'll find me at meetups, conference
 
 ### ✏️ Technical Writing
 
+- 🔒 [Use Your Fingerprint with 1Password to Authenticate the Twilio CLI](https://www.twilio.com/blog/use-your-fingerprint-with-1password-to-authenticate-twilio-cli) | December 7, 2022
+- 🤖 [AI Wrote this Blog Post About Taking Over Your Job](https://anthonydellavecchia.com/blog/this-blog-post-is-written-by-ai/) | December 2, 2022
 - 🤝 [Gaining Trust in APIs](https://anthonydellavecchia.com/blog/gaining_trust_in_apis/) | November 2, 2022
 - 👻 [Do you like scary movies?](https://www.twilio.com/blog/do-you-like-scary-movies-build-a-halloween-project-with-twilio) | October 31, 2022
 - 📝 [Summarize Text from Images using AI and Twilio](https://www.twilio.com/blog/summarize-text-from-images-using-ai-and-twilio) | September 1, 2022
