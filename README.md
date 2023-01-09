@@ -19,6 +19,7 @@ I write code on stage in front of a crowd. You'll find me at meetups, conference
 - 🐦 [Twitter @anthonyjdella](https://twitter.com/anthonyjdella)
 - 💼 [LinkedIn @anthonydellavecchia](https://www.linkedin.com/in/anthonydellavecchia/)
 - :octocat: [GitHub @anthonyjdella](https://github.com/anthonyjdella)
+- 📹 [Twitch @anthonyjdella](https://www.twitch.tv/anthonyjdella)
 - 🕺 [TikTok @anthonyjdella](https://tiktok.com/@anthonyjdella)
 - ❇️ [Polywork @anthonyjdella](https://www.polywork.com/anthonyjdella)
 - 📓 [Dev.to @anthonyjdella](https://dev.to/anthonyjdella)
