@@ -34,6 +34,7 @@ I write code on stage in front of a crowd. You'll find me at meetups, conference
 
 ### 💻 Personal Projects
 
+- [Daily Sit-Down](https://github.com/anthonyjdella/level-up-with-twilio-studio) | Save your status to Airtable with this quick asynchronous app
 - [Summarize Text from Images](https://github.com/anthonyjdella/summarize-text) | Take a picture of book, get a text with a summary of what it says
 - [TwilioQuest Extension](https://github.com/anthonyjdella/twilio-quest-booth-mission) | A video game extenstion for TwilioQuest with player challenges to teach Twilio APIs
 - [NBA News](https://github.com/anthonyjdella/nba-news) | A simple app that texts you NBA news
@@ -49,6 +50,7 @@ I write code on stage in front of a crowd. You'll find me at meetups, conference
 
 | Event | Location | Date | Topic | Reference      |
 |------|:-------:|:-----:|:------:|--------|
+| [Level Up with Studio](https://interactive.twilio.com/level-up-with-studio-prototype-enhance-and-share-your-workflows-webinar) | Online,&nbsp;🌐 | January 26, 2023 | Webinar, [Prototype, Enhance, and Share your Workflows](https://interactive.twilio.com/level-up-with-studio-prototype-enhance-and-share-your-workflows-webinar) | [📹&nbsp;Video](https://interactive.twilio.com/level-up-with-studio-prototype-enhance-and-share-your-workflows-webinar) |
 | [Stack Overflow Podcast](https://stackoverflow.blog/podcast/) | Online,&nbsp;🌐 | December 20, 2022 | Talk, [Let’s talk about our favorite terminal tools](https://stackoverflow.blog/2022/12/20/lets-talk-about-our-favorite-terminal-tools/) | [🖥&nbsp;Transcript](https://the-stack-overflow-podcast.simplecast.com/episodes/talking-about-our-favorite-terminal-tools/transcript/) |
 | [Halloween Party](https://www.meetup.com/twilio-seattle/events/288926681/) | Seattle,&nbsp;🌧️ | October 24, 2022 | Talk, [Do you like scary movies?](https://www.twilio.com/blog/do-you-like-scary-movies-build-a-halloween-project-with-twilio) | [🖥&nbsp;Slides](https://noti.st/anthonyjdella/YEMatV/do-you-like-scary-movies) |
 | [Spiceworld 2022](https://www.spiceworks.com/spiceworld/) | Austin,&nbsp;🥩 | September 28, 2022 | Workshop, [Summarize Text from Images using AI and Twilio](https://www.twilio.com/blog/summarize-text-from-images-using-ai-and-twilio) | [🖥&nbsp;Slides](https://noti.st/anthonyjdella/L6gFMA/summarize-text-from-images-using-ai-and-twilio) |
