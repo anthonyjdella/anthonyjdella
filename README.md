@@ -34,6 +34,7 @@ I write code on stage in front of a crowd. You'll find me at meetups, conference
 
 ### 💻 Personal Projects
 
+- [Web5 Issue Credentials](https://github.com/anthonyjdella/tbd-issue-credential) | Decentralized identity, so you control your identity on the Internet, not corporations
 - [Daily Sit-Down](https://github.com/anthonyjdella/level-up-with-twilio-studio) | Save your status to Airtable with this quick asynchronous app
 - [Summarize Text from Images](https://github.com/anthonyjdella/summarize-text) | Take a picture of book, get a text with a summary of what it says
 - [TwilioQuest Extension](https://github.com/anthonyjdella/twilio-quest-booth-mission) | A video game extenstion for TwilioQuest with player challenges to teach Twilio APIs
