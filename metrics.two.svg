@@ -40,10 +40,10 @@
   <b>    4</b> issues opened
   <b>   30</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">anthonyjdella@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 60 repositories - 1.53 GB
+<div class="stdin"><span class="ps1-path">anthonyjdella@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 61 repositories - 1.53 GB
 -r--  <b>   49</b>  stargazers
 -r--  <b>   14</b>  forks
--r--  <b>   34</b>  watchers
+-r--  <b>   35</b>  watchers
 dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
