@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="342" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="378" class="">
   
 
   <defs><style>@font-face {
@@ -41,10 +41,12 @@
   <b>   31</b> issue comments
 </div>
 <div class="stdin"><span class="ps1-path">anthonyjdella@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 67 repositories - 1.55 GB
--r--  <b>    0</b>  stargazers
--r--  <b>    0</b>  forks
--r--  <b>    0</b>  watchers
+-r--  <b>   59</b>  stargazers
+-r--  <b>   16</b>  forks
+-r--  <b>   87</b>  watchers
 dr-x  <b>    0</b>  packages
+dr-x         LICENSE
+-r--         └── MIT
 </div>
 
 </pre>
