@@ -1,4 +1,4 @@
-
+<!--
 <div align="center">
   <a href="https://anthonydellavecchia.com">
     <img src="https://raw.githubusercontent.com/anthonyjdella/anthonyjdella/main/anthony-logo.svg?sanitize=true">
